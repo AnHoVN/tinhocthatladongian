@@ -1,2 +1,4 @@
-hello developer
+<?php
+echo "tinhocthatladongian"
+?>
 
